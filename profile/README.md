@@ -1,4 +1,4 @@
-Still setting things up..
+CubeGaming's repos where moved off to a privately hosted gitlab enterprice instance due to security reasons.
 
 <!--
 
