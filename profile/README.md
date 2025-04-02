@@ -1,5 +1,7 @@
 CubeGaming's repos where moved off to a privately hosted gitlab enterprice instance due to security reasons.
 
+We will still host OSS stuff here if we make any! :)
+
 <!--
 
 **Here are some ideas to get you started:**
